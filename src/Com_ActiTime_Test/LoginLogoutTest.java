@@ -33,6 +33,8 @@ public class LoginLogoutTest extends BaseTest {
 			hp.logoutButton();
 			//verify login page
 			lp.verifyTitle(lgtitle);
+			
+			//github added
 
 	}
 
